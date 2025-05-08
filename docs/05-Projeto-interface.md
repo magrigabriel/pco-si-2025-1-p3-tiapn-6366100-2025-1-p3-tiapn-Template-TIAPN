@@ -51,30 +51,40 @@ São protótipos usados no design de interface para sugerir a estrutura de um si
 
 Visão geral da interação do usuário por meio das telas do sistema. Apresente as principais interfaces da plataforma em sua versão final.
 
-### Tela principal do sistema
+### Tela principal do siste
 
-Descrição da tela principal do sistema.
+A tela principal será a tela inicial do usúario, com alguns menus rapidos e lembretes.
 
-> Insira aqui a tela principal do sistema
+![image](https://github.com/user-attachments/assets/1bdcf538-42d5-42f6-ab93-6c00bf396be8)
 
 
-###  Telas do processo 1
+###  Telas do Emprestimo de Ferramenta
 
-Descrição da tela relativa à atividade 1 do processo 1.
+Tela que mostra todos emprestimos, com seus filtros de pesquisa e opção de devolver
 
-> Insira aqui a tela da atividade 1
+![image](https://github.com/user-attachments/assets/fe66eaee-1078-4b95-8985-de399a39799f)
+![image](https://github.com/user-attachments/assets/37376740-8c9c-4d6b-97ce-efe01d5a32c6)
 
-Descrição da tela relativa à atividade 2 do processo 1.
 
-> Insira aqui a tela da atividade 2
+
+Tela onde ocorre a geração de emprestimo, que armazena os dados do usuario que deseja fazer o emprestimo. A direita, a um aviso, caso aquele usuario esteja banido de emprestimos
+
+> ![image](https://github.com/user-attachments/assets/11aeb215-0beb-4b47-963a-439a948dd8e3)
+
 
 
 ### Telas do processo 2
 
-Descrição da tela relativa à atividade 1 do processo 2.
+Tela de adicionar material após a compra, onde é possivel colocar todas as informações necessarias referente a ferramenta
 
-> Insira aqui a tela da atividade 1
+![image](https://github.com/user-attachments/assets/16c11821-998a-4fee-aae5-f4e2377fe155)
 
-Descrição da tela relativa à atividade 2 do processo 2.
+Tela onde é possivel ver uma tabela com todas as ferramentas que estão em estoque (Texto 1), além de sermos levados para a tela de ações, de cada ferramenta, onde é possivel ver o historico de uso e editar os dados da ferramenta (Texto 2)
 
-> Insira aqui a tela da atividade 2
+Texto 1:
+![image](https://github.com/user-attachments/assets/698bb62d-a277-4093-a3c1-6f355e5b9e23)
+
+Texto 2:
+![image](https://github.com/user-attachments/assets/867d80f6-c5a0-435c-9be5-e6a16c977b60)
+
+
